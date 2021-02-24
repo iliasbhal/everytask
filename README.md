@@ -1,7 +1,7 @@
 # :package: :sparkles: Everytask
 
 <p>
-  <a href="https://github.com/iliasbhal/everytask/main/LICENSE">
+  <a href="https://github.com/iliasbhal/everytask/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Everytask is released under the MIT license." />
   </a>
 </p>
