@@ -1,6 +1,7 @@
 # :package: :sparkles: Everytask
 
 <p>
+  <a href="http://badge.fury.io/js/everytask"><img src="https://badge.fury.io/js/everytask.svg" alt="npm version"></a>
   <a href="https://github.com/iliasbhal/everytask/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Everytask is released under the MIT license." />
   </a>
@@ -15,10 +16,6 @@ This library aims to provide a clear isomorphic API to schdelule tasks without h
 
 ## Installation
 ```bash
-npm i everytask
-
-# or
-
 yarn add everytask
 ```
 
