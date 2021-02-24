@@ -1,4 +1,12 @@
 # :package: :sparkles: Everytask
+
+<p>
+  <a href="https://github.com/iliasbhal/everytask/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Everytask is released under the MIT license." />
+  </a>
+</p>
+
+
 The API for sheduling tasks with the event loop is very counter intuitive.
 It's sometimes hard to choose between `Promise.resolve().then()`, `setTimeout()` and `queueMicrotask()`.
 Don't get me started with the differences between **node**  and the **browser**.
