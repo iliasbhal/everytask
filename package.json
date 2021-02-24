@@ -32,7 +32,11 @@
     "trailingComma": "es5"
   },
   "name": "everytask",
-  "author": "iliasbhal",
+  "author": "iliasbhal <ilias.bhal@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliasbhal/everytask.git"
+  },
   "module": "dist/everytask.esm.js",
   "size-limit": [
     {
