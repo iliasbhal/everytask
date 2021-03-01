@@ -1,7 +1,9 @@
 # :package: :sparkles: Everytask
 
 <p>
-  <a href="http://badge.fury.io/js/everytask"><img src="https://badge.fury.io/js/everytask.svg" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/everytask"><img src="https://badge.fury.io/js/everytask.svg" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/everytask"><img src="https://img.shields.io/npm/dw/everytask" alt="downloads per week"></a>
+  <a href="https://bundlephobia.com/result?p=everytask"><img src="https://img.shields.io/bundlephobia/min/everytask" alt="bundle size"></a>
   <a href="https://github.com/iliasbhal/everytask/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Everytask is released under the MIT license." />
   </a>
